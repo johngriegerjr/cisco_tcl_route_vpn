@@ -70,4 +70,3 @@ puts -nonewline $fileId $nexthop
 # close filename after writing
 close $fileId
 puts "ipaddress.txt file was updated"
-}
